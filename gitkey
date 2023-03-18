@@ -1,0 +1,6 @@
+ this  is he 
+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
+
+git auth key
+git remote set-url origin https://<githubtoken>@github.com/<username>/<repositoryname>.git
+and above is the syntax 
